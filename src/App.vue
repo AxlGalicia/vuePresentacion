@@ -1,10 +1,16 @@
 <script setup>
+import BulmaComponent from './components/BulmaComponent.vue';
+import PrimerPanelComponent from './components/PrimerPanelComponent.vue';
+import SegundoPanelComponent from './components/SegundoPanelComponent.vue';
+
 //import HelloWorld from './components/HelloWorld.vue'
 //import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
-  <h1>vue Presentacion</h1>
+  <BulmaComponent></BulmaComponent>
+  <PrimerPanelComponent></PrimerPanelComponent>
+  <SegundoPanelComponent></SegundoPanelComponent>
 </template>
 
 <style scoped>
