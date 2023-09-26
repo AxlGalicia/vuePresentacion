@@ -87,6 +87,8 @@
 <style scoped>
     .skills{
         background-color: rgb(0, 0, 0);
+        padding-bottom: 10px;
+        border-radius: 30px;
     }
 
     .titulo{

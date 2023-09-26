@@ -2,6 +2,7 @@
 import BulmaComponent from './components/BulmaComponent.vue';
 import PrimerPanelComponent from './components/PrimerPanelComponent.vue';
 import SegundoPanelComponent from './components/SegundoPanelComponent.vue';
+import TercerPanelComponent from './components/TercerPanelComponent.vue';
 
 //import HelloWorld from './components/HelloWorld.vue'
 //import TheWelcome from './components/TheWelcome.vue'
@@ -11,6 +12,7 @@ import SegundoPanelComponent from './components/SegundoPanelComponent.vue';
   <BulmaComponent></BulmaComponent>
   <PrimerPanelComponent></PrimerPanelComponent>
   <SegundoPanelComponent></SegundoPanelComponent>
+  <TercerPanelComponent></TercerPanelComponent>
 </template>
 
 <style scoped>
