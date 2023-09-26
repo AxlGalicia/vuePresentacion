@@ -3,7 +3,7 @@
         Hola! Soy Axl Galicia
     </div>
     <div class="subtitulo">
-        Soy estudiante de ingenieria electronica
+        Estudiante de ingenieria electronica
     </div>
     <div class="subtitulo2 columns">
         <div class="estudios column">
@@ -22,13 +22,13 @@
 </script>
 
 <style scoped>
-.titulo
+/*.titulo
 {
-    font-size: xx-large;
+    font-size: 45px;
     font-family: 'Arvo', serif;
     font-style: bold;
     font-weight: 700;
-}
+}*/
 
 .subtitulo
 {
@@ -47,6 +47,14 @@
 }
 
 @media only screen and (max-width: 768px) {
+    .titulo
+{
+    font-size: 35px;
+    font-family: 'Arvo', serif;
+    font-style: bold;
+    font-weight: 700;
+}
+
     .estudios{
     display: flex;
     justify-content: center;
@@ -70,6 +78,14 @@
 }
 
 @media only screen and (min-width: 769px) {
+
+    .titulo
+{
+    font-size: 45px;
+    font-family: 'Arvo', serif;
+    font-style: bold;
+    font-weight: 700;
+}
 
     .estudios{
     display: flex;
