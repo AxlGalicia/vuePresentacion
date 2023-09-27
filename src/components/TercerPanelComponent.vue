@@ -14,7 +14,7 @@
                 <div class="contactoLink">
                     <ul>
                     <li>Número de teléfono: <strong>(+502) 54451284</strong></li>
-                    <li>Correo electrónico: <strong>axlgreatga@gmail.com</strong></li>
+                    <li>Correo electrónico: <strong class="arregloDesbordamiento">axlgreatga@gmail.com</strong></li>
                     <li>Linkedln: <strong class="arregloDesbordamiento">https://www.linkedin.com/in/axl-galicia-b650b2249/</strong></li>
                 </ul>
                 </div>

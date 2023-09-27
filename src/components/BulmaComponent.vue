@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://github.com">
+    <a class="navbar-item" href="https://github.com/AxlGalicia/vuePresentacion">
       <img src="../assets/github.png" width="30" height="30">
       <a class="title is-4 margenesTitulo">Presentación</a>
     </a>
