@@ -1,5 +1,5 @@
 <template>
-    <div class="skills">
+    <div class="skills" id="habilidades">
         <div class="titulo">
             Habilidades
         </div>
@@ -7,7 +7,7 @@
             <div class="column caja1">
                 <div class="content is-normal">
                     <div class="tituloCaja title is-4">
-                        Lenguajes de Programacion
+                        Lenguajes de Programación
                     </div>
 
                     <ul class="subtitle is-5">
@@ -15,20 +15,19 @@
                         <progress class="progress is-primary" value="50" max="100">50%</progress>
                         <li>C# (Intermedio)</li>
                         <progress class="progress is-primary" value="55" max="100">55%</progress>
-                        <li>Javascript (Basico-Intermedio)</li>
+                        <li>Javascript (Básico-Intermedio)</li>
                         <progress class="progress is-primary" value="30" max="100">30%</progress>
-                        <li>Html (Basico-Intermedio)</li>
+                        <li>Html (Básico-Intermedio)</li>
                         <progress class="progress is-primary" value="30" max="100">30%</progress>
-                        <li>Css (Basico)</li>
+                        <li>Css (Básico)</li>
                         <progress class="progress is-primary" value="25" max="100">25%</progress>
-
                     </ul>
                 </div>
             </div>
             <div class="column caja2">
                 <div class="content is-normal">
                     <div class="tituloCaja title is-4">
-                        Tecnologias
+                        Tecnologías
                     </div>
                    
                     <ul class="subtitle is-5">
@@ -40,8 +39,8 @@
                         <progress class="progress is-primary" value="25" max="100">25%</progress>
                         <li>Arduino</li>
                         <progress class="progress is-primary" value="25" max="100">25%</progress>
-                        <li>Tiva C</li>
-                        <progress class="progress is-primary" value="40" max="100">40%</progress>
+                        <li>Vue3</li>
+                        <progress class="progress is-primary" value="25" max="100">25%</progress>
                         <li>Git</li>
                         <progress class="progress is-primary" value="30" max="100">30%</progress>
                     </ul>
@@ -54,12 +53,12 @@
                     </div>
                     
                     <ul class="subtitle is-5">
-                        <li class="separador">Ingles B1 Tecnico</li>
-                        <li class="separador">Ofimatica</li>
-                        <li class="separador">Razonamiento logico</li>
+                        <li class="separador">Inglés B1 Técnico</li>
+                        <li class="separador">Ofimática</li>
+                        <li class="separador">Razonamiento lógico</li>
                         <li class="separador">Trabajo en equipo</li>
-                        <li class="separador">Adaptabilidad a tecnologias nuevas</li>
-                        <li class="separador">Capacidad de resolucion de problemas</li>
+                        <li class="separador">Adaptabilidad a tecnologías nuevas</li>
+                        <li class="separador">Capacidad de resolución de problemas</li>
                     </ul>
                 </div>
             </div>
@@ -71,8 +70,9 @@
 
                     <ul class="subtitle is-5">
                         <li class="separador">Conocimiento del sistema Linux</li>
-                        <li class="separador">Conocimiento de Redes basico</li>
-                        <li class="separador">Conocimiento Circuitos Electronicos</li>
+                        <li class="separador">Conocimiento de Redes básico</li>
+                        <li class="separador">Conocimiento Circuitos Electrónicos</li>
+                        <li class="separador">Conocimiento en Microprocesadores</li>
                     </ul>
                 </div>
             </div>
@@ -203,6 +203,7 @@
     }
     .contenedorColumnas{
         padding: 20px;
+        padding-bottom: 40px;
     }
 
 </style>

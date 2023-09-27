@@ -1,9 +1,9 @@
 <template>
     <div class="titulo is-spaced">
-        Hola! Soy Axl Galicia
+        ¡Hola! Soy Axl Galicia
     </div>
     <div class="subtitulo">
-        Estudiante de ingenieria electronica
+        Estudiante de ingeniería electrónica
     </div>
     <div class="subtitulo2 columns">
         <div class="estudios column">
@@ -17,7 +17,6 @@
 </template>
 
 <script setup>
-//Imagen de <a href="https://pixabay.com/es/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3537401">Gerd Altmann</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3537401">Pixabay</a>
 
 </script>
 

@@ -1,9 +1,9 @@
 <template>
     <div class="contenedor">
-        <div class="caja columns">
+        <div class="caja columns" id="contacto">
             <div class="column">
                 <div class="contactoTitulo">
-                    Informacion de contacto
+                    Información de contacto
                 </div>
                 <div class="contactoDescripcion">
                     En este apartado puede encontrar los medios para comunicarse conmigo.
@@ -13,9 +13,9 @@
             <div class="column">
                 <div class="contactoLink">
                     <ul>
-                    <li>Numero de telefono: (+502) 54451284</li>
-                    <li>Correo electronico: axlgreatga@gmail.com</li>
-                    <li>Linkdln: https://linkdln.com/perfil</li>
+                    <li>Número de teléfono: <strong>(+502) 54451284</strong></li>
+                    <li>Correo electrónico: <strong>axlgreatga@gmail.com</strong></li>
+                    <li>Linkedln: <strong>https://www.linkedin.com/in/axl-galicia-b650b2249/</strong></li>
                 </ul>
                 </div>
             </div>
@@ -25,6 +25,10 @@
         </div>
     </div>
 
+    <div class="notification is-link">
+        Esta página se seguirá actualizando con el tiempo, ya que estaré aprendiendo y reforzando mis conocimientos. Gracias por visitar esta página de presentación.
+    </div>
+    
 </template>
 
 <script setup>

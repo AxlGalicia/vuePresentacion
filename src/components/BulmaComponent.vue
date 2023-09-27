@@ -3,7 +3,7 @@
   <div class="navbar-brand">
     <a class="navbar-item" href="https://github.com">
       <img src="../assets/github.png" width="30" height="30">
-      <a class="title is-4 margenesTitulo">Presentacion</a>
+      <a class="title is-4 margenesTitulo">Presentación</a>
     </a>
 
     <a role="button" class="navbar-burger " aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" id="burger" @click="menuDesplegable">
@@ -15,34 +15,19 @@
 
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
-      <a class="navbar-item">
-        Quien Soy
+      <a class="navbar-item" href="#habilidades">
+        Habilidades
       </a>
 
-      <a class="navbar-item">
-        Skills
+      <a class="navbar-item" href="#contacto">
+        Contacto
       </a>
-
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
-          Mas
-        </a>
-
-        <div class="navbar-dropdown">
-          <a class="navbar-item">
-            Experiencia
-          </a>
-          <a class="navbar-item">
-            Contacto
-          </a>
-        </div>
-      </div>
     </div>
 
     <div class="navbar-end">
       <div class="navbar-item">
-        <div class="buttons">
-          <a class="button is-primary">
+        <div class="buttons" @click="irRepositorio">
+          <a class="button is-primary" href="https://github.com/AxlGalicia?tab=repositories">
             <strong>Repositorio</strong>
           </a>
         </div>
