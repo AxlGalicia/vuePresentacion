@@ -26,9 +26,12 @@
 
     <div class="navbar-end">
       <div class="navbar-item">
-        <div class="buttons" @click="irRepositorio">
+        <div class="buttons">
           <a class="button is-primary" href="https://github.com/AxlGalicia?tab=repositories">
             <strong>Repositorio</strong>
+          </a>
+          <a class="button is-primary" download="Axl_Galicia_CV" href="/CV_Axl.pdf">
+            <strong>Mi CV</strong>
           </a>
         </div>
       </div>
