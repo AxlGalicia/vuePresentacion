@@ -37,7 +37,7 @@
 
 <style scoped>
     .contenedor{
-        background-color: aliceblue;
+        /*background-color: aliceblue;*/
         padding-top: 20px;
         padding-bottom: 20px;
         margin-top: 20px;
