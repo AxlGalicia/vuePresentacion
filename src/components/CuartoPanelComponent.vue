@@ -47,7 +47,7 @@
         </p>
         <p class="card-footer-item">
         <span class="centrado-texto">
-            Web Api <a href="https://github.com/AxlGalicia/volcanes-api">repositorio</a>
+            Web Api <a href="https://api-test.lat">página</a>
         </span>
         </p>
     </footer>
