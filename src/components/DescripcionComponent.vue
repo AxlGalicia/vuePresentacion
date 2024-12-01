@@ -21,13 +21,13 @@
 </script>
 
 <style scoped>
-/*.titulo
+/* .titulo
 {
-    font-size: 45px;
+    font-size: 5px;
     font-family: 'Arvo', serif;
     font-style: bold;
     font-weight: 700;
-}*/
+} */
 
 .subtitulo
 {
@@ -80,17 +80,25 @@
 
     .titulo
 {
-    font-size: 45px;
+    font-size: 55px;
     font-family: 'Arvo', serif;
     font-style: bold;
     font-weight: 700;
+}
+
+.subtitulo
+{
+    font-size: xx-large;
+    font-family: 'Arvo', serif;
+    font-style: normal;
+    font-weight: 400;
 }
 
     .estudios{
     display: flex;
     justify-content: right;
     /*background-color: blue;*/
-    font-size: x-large;
+    font-size: xx-large;
     font-family: 'Arvo', serif;
     font-style: normal;
     font-weight: 400;

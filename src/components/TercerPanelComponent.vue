@@ -53,8 +53,8 @@
         border-radius: 20px;
         box-shadow: 0px 0px 25px black;
         padding: 20px;
-        margin-left: 10%;
-        margin-right: 10%;
+        margin-left: 11.5%;
+        margin-right: 11.5%;
 
     }
 
@@ -90,5 +90,26 @@
     .arregloDesbordamiento{
         overflow-wrap: break-word;
     }
+
+    @media only screen and (max-width: 768px){
+
+        .caja{
+        /*background-color: rgb(232, 236, 236);*/
+        /*background-color: rgb(133, 239, 198);*/
+        /*background: linear-gradient(rgb(118, 118, 236), rgb(249, 125, 145));*/
+        /*background: linear-gradient(to right,rgb(151, 242, 215), rgb(118, 118, 236));*/
+        background: linear-gradient(to right,rgb(151, 242, 215), rgb(226, 95, 250));
+        border-radius: 20px;
+        box-shadow: 0px 0px 25px black;
+        padding: 20px;
+        margin-left: 7%;
+        margin-right: 7%;
+
+    }
+
+
+    }
+
+
 
 </style>

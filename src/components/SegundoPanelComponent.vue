@@ -12,15 +12,17 @@
 
                     <ul class="subtitle is-5">
                         <li>Java (Intermedio)</li>
-                        <progress class="progress is-primary" value="50" max="100">50%</progress>
+                        <progress class="progress is-primary" value="55" max="100">50%</progress>
                         <li>C# (Intermedio)</li>
                         <progress class="progress is-primary" value="55" max="100">55%</progress>
+                        <li>Visual Basic (Intermedio)</li>
+                        <progress class="progress is-primary" value="50" max="100">55%</progress>
                         <li>Javascript (Básico-Intermedio)</li>
-                        <progress class="progress is-primary" value="30" max="100">30%</progress>
+                        <progress class="progress is-primary" value="35" max="100">30%</progress>
                         <li>Html (Básico-Intermedio)</li>
-                        <progress class="progress is-primary" value="30" max="100">30%</progress>
+                        <progress class="progress is-primary" value="35" max="100">30%</progress>
                         <li>Css (Básico)</li>
-                        <progress class="progress is-primary" value="25" max="100">25%</progress>
+                        <progress class="progress is-primary" value="30" max="100">25%</progress>
                     </ul>
                 </div>
             </div>
@@ -32,17 +34,17 @@
                    
                     <ul class="subtitle is-5">
                         <li>.NET</li>
-                        <progress class="progress is-primary" value="50" max="100">50%</progress>
+                        <progress class="progress is-primary" value="55" max="100">50%</progress>
                         <li>Base de datos</li>
-                        <progress class="progress is-primary" value="35" max="100">35%</progress>
+                        <progress class="progress is-primary" value="50" max="100">35%</progress>
                         <li>Docker</li>
                         <progress class="progress is-primary" value="25" max="100">25%</progress>
                         <li>Arduino</li>
                         <progress class="progress is-primary" value="25" max="100">25%</progress>
                         <li>Vue3</li>
-                        <progress class="progress is-primary" value="25" max="100">25%</progress>
+                        <progress class="progress is-primary" value="35" max="100">25%</progress>
                         <li>Git</li>
-                        <progress class="progress is-primary" value="30" max="100">30%</progress>
+                        <progress class="progress is-primary" value="50" max="100">30%</progress>
                     </ul>
                 </div>
             </div>
@@ -59,6 +61,7 @@
                         <li class="separador">Trabajo en equipo</li>
                         <li class="separador">Adaptabilidad a tecnologías nuevas</li>
                         <li class="separador">Capacidad de resolución de problemas</li>
+                        <li class="separador">Entendimiento intermedio de procesadores de pago</li>
                     </ul>
                 </div>
             </div>
@@ -73,6 +76,8 @@
                         <li class="separador">Conocimiento de Redes básico</li>
                         <li class="separador">Conocimiento Circuitos Electrónicos</li>
                         <li class="separador">Conocimiento en Microprocesadores</li>
+                        <li class="separador">Conocimiento de consumo de Web APIs</li>
+                        <li class="separador">Conocimiento de Sql Server</li>
                     </ul>
                 </div>
             </div>

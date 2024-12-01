@@ -1,40 +1,40 @@
 <template>
     <div class="panelApi">
-            <div class="card contenedor">
-    <div class="card-content">
-        <p class="title funcionesTecnologias">
+        <div class="card contenedor">
+            <div class="card-content">
+                <p class="title funcionesTecnologias">
         En los siguientes enlaces puede encontrar una Web Api .NET demostrativa con las siguientes funcionalidades que puede probar.
-        </p>
-        <div class="descripcionTecnologias">
-            <p>
-            <ol class="listado">
-                <li>
+                </p>
+                <div class="descripcionTecnologias">
+                    <p>
+                        <ol class="listado">
+                        <li>
                     Paginación
-                </li>
-                <li>
+                        </li>
+                        <li>
                     Autenticación con JWT
-                </li>
-                <li>
-                    Guardado de passwords con HMACSHA521
-                </li>
-                <li>
+                        </li>
+                        <li>
+                    Guardado de passwords con HMACSHA512
+                        </li>
+                        <li>
                     Uso de EntityFrameworkCore
-                </li>
-                <li>
+                        </li>
+                        <li>
                     CRUD Básico
-                </li>
-                <li>
+                        </li>
+                        <li>
                     Uso de Spaces Digital Ocean
-                </li>
-                <li>
+                        </li>
+                        <li>
                     Despliegue con Docker
-                </li>
-                <li>
+                        </li>
+                        <li>
                     Uso de Bump.sh para documentación
-                </li>
-            </ol>
-        </p>
-        </div>
+                        </li>
+                        </ol>
+                    </p>
+                </div>
         <div class="aclaracion">
             Puede utilizar Postman o algun otro cliente para probar APIs.
         </div>
@@ -77,6 +77,7 @@
     }
 
     .funcionesTecnologias{
+        color: rgb(0, 0, 0);
         text-align: center;
     }
 
@@ -140,6 +141,28 @@
     @media only screen and (min-width: 769px){
 
 
+
+    }
+
+    @media only screen and (min-width: 1320px){
+
+        .panelApi{
+        /*height: 50px;*/
+        /*background-color: aliceblue;*/
+        padding-top: 30px;
+        
+    }
+    .contenedor{
+        /*background: linear-gradient(to right,rgb(207, 208, 208), rgb(152, 245, 228));*/
+        /*background: rgb(242,241,247);
+        background: linear-gradient(90deg, rgba(242,241,247,1) 0%, rgba(180,223,220,1) 46%, rgba(137,217,233,1) 100%);*/
+        background: rgb(250,163,91);
+        background: linear-gradient(90deg, rgba(250,163,91,1) 0%, rgba(180,223,220,1) 60%, rgba(137,217,233,1) 100%);
+        border-radius: 20px;
+        box-shadow: 0px 0px 25px black;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
 
     }
 
